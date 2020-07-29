@@ -1,0 +1,8 @@
+The International Mobile Equipment Identity (IMEI) is a number, 
+usually unique, to identify 3GPP and iDEN mobile phones, as well as 
+some satellite phones.
+
+Qualcomm stored IMEI info in NV 550 NV_UE_IMEI_I.
+
+It is a tool to learn Qualcomm IMEI encoding in NV XML file format.
+
